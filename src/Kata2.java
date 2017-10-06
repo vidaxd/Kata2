@@ -16,9 +16,9 @@ public class Kata2 {
             System.out.println(key + "==>" + histogr.get(key));
         }
         
-        //System.out.println(Arrays.asList(histogram)); //Metodo alternativo a for each
+        //System.out.println(Arrays.asList(histogram)); //Metodo alternativo a for each.
         
-        //System.out.println(histogram.entrySet());       //Metodo alternativo a for each
+        //System.out.println(histogram.entrySet());       //Metodo alternativo a for each.
         
     }
     
